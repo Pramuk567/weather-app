@@ -144,7 +144,18 @@ body{
      .search input{
         height: 50px;
          width: 70%;
-         
      }
-     
-    }
+     .details{
+    padding: 0 10px ;
+}
+.col{
+    gap:8px;
+}
+.col img{
+    margin-right: 0px;
+}
+.humidity, .wind{
+    font-size: 14px;
+    margin-top: -6px;
+}
+}
