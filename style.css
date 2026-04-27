@@ -113,8 +113,8 @@ body{
     .heading{
         text-align:center;
         font-weight:600;
-        color:pink;
-        font-size:45px;
+        color:#f55fe8;
+        font-size:20px;
     }
     .info{
         display: flex;
